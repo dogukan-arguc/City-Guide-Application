@@ -1,2 +1,2 @@
 # SE_Project
-Software Engineering project phases.
+Software Engineering Class project phases.
